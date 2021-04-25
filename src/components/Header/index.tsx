@@ -10,7 +10,7 @@ export function Header() {
     return(
         <header className={styles.headerContainer}>
             <img src="/logo.svg" alt="Podcastr" />
-            <p>O melhor podcast sobre futebol</p>
+            <p>Podcast Feito para Dektop na NLW - 05</p>
             <span>{ currentDate }</span>
         </header>
     );
